@@ -1,0 +1,13 @@
+{
+  "FacialDetection": {
+    "KEY": "06cbaf54bfcb462da755bc519c998f9a",
+    "ENDPOINT": "https://grupo-fundao.cognitiveservices.azure.com/"
+  },
+  "VisualRecognitionV3": {
+    "KEY": "7JLj77cJlAoFi0185S8vy9cp8pcsiCmrEZqVFSbLtDKR",
+    "ENDPOINT": "https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/e606bf88-2faf-4bd4-9425-90c9f02b16b8"
+  },
+  "ModelInDocker": {
+	"ENDPOINT" : "http://35.202.255.46:8080/modelo_credito"
+  } 
+}
