@@ -9,5 +9,8 @@
   },
   "ModelInDocker": {
 	"ENDPOINT" : "http://35.202.255.46:8080/modelo_credito"
+  },
+  "ModelInDocker2": {
+	"ENDPOINT" : "http://35.202.255.46:8081/modelo_sem_etnia"
   } 
 }
